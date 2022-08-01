@@ -5,6 +5,18 @@
       "day": "4th Feb at 2:30 pm",
       "reminder": false,
       "id": 1
+    },
+    {
+      "text": "Nothing",
+      "day": "27 July at 3:46 pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "ChuChu Birthday",
+      "day": "7th Oct 2004",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
